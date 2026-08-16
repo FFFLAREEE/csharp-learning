@@ -4,13 +4,14 @@
     {
         static void Main()
         {
-            int count = 1;
+            
             for (int i = 1; i < 10; i++) 
             {
-                for (int j = i; j < 10; j++)
+                for (int j = 1; j <=i; j++)
                 {
-                    Console.WriteLine(i+"*"+j+"="+i*j);
+                    Console.Write($"{j} * {i} = {j * i,-2}   ");
                 }
+                Console.WriteLine();
             }
         }
     }
