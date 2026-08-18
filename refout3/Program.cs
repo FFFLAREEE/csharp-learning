@@ -2,14 +2,14 @@
 {
     class Program
     {
-        static void Mylog(string msg, int level)
+        static void Mylog(string msg, int level=0)
         {
             Console.WriteLine($"[{level}] {msg}");
         }
 
         static void Main()
         {
-            Mylog("Hello",0);
+            Mylog("Hello");
         }
     }
 }
