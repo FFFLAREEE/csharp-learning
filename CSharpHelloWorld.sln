@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refout3", "refout3\refout3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refout4", "Refout4\Refout4.csproj", "{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classdeeper", "classdeeper\classdeeper.csproj", "{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
