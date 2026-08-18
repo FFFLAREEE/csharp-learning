@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refout2", "refout2\refout2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refout3", "refout3\refout3.csproj", "{1006ED0D-D5F3-4820-87E7-5064E6A17CFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refout4", "Refout4\Refout4.csproj", "{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{1006ED0D-D5F3-4820-87E7-5064E6A17CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1006ED0D-D5F3-4820-87E7-5064E6A17CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1006ED0D-D5F3-4820-87E7-5064E6A17CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F58B578-F02D-4FB9-90C7-BDFBA04EB58C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
