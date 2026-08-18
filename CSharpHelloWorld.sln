@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreachhw", "Foreachhw\Fore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refout", "refout\refout.csproj", "{ECBA8352-5C91-45CD-AF98-3E3A9FBF8ACE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refout2", "refout2\refout2.csproj", "{05770DEA-1808-43E6-A20A-ED3B608FC9B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{ECBA8352-5C91-45CD-AF98-3E3A9FBF8ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBA8352-5C91-45CD-AF98-3E3A9FBF8ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBA8352-5C91-45CD-AF98-3E3A9FBF8ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05770DEA-1808-43E6-A20A-ED3B608FC9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05770DEA-1808-43E6-A20A-ED3B608FC9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05770DEA-1808-43E6-A20A-ED3B608FC9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05770DEA-1808-43E6-A20A-ED3B608FC9B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
