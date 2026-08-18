@@ -28,6 +28,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refout4", "Refout4\Refout4.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classdeeper", "classdeeper\classdeeper.csproj", "{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classdeeper2", "classdeeper2\classdeeper2.csproj", "{A85779F5-6F61-43FF-9D24-A525D7ED9BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classdeeper3", "classdeeper3\classdeeper3.csproj", "{31D96AAE-64D8-4728-BDC3-2DCABA98D02D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +94,13 @@ Global
 		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9919F7AB-B93F-4BD9-AD1D-539D6AD3E9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85779F5-6F61-43FF-9D24-A525D7ED9BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85779F5-6F61-43FF-9D24-A525D7ED9BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85779F5-6F61-43FF-9D24-A525D7ED9BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85779F5-6F61-43FF-9D24-A525D7ED9BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D96AAE-64D8-4728-BDC3-2DCABA98D02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D96AAE-64D8-4728-BDC3-2DCABA98D02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D96AAE-64D8-4728-BDC3-2DCABA98D02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D96AAE-64D8-4728-BDC3-2DCABA98D02D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
