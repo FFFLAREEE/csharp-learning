@@ -1,6 +1,12 @@
 ﻿namespace Abstract
 {
-    abstract class Animal//抽象类存在的意义就是继承用的 不允许创造实例
+    interface IAnimal //接口 只约束应该做什么
+    {
+        void Speak();
+        void Eat();//默认public
+    }
+    
+    abstract class Animal:IAnimal //抽象类存在的意义就是继承用的 不允许创造实例
         
     {
         public int Age{get;set;}
